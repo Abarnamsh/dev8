@@ -6,9 +6,7 @@ fifth line
 6th line
 7th line
 <<<<<<< HEAD
-8th line
-9th line
-||||||| 2fa17b5 (9th)
 9th line
 =======
->>>>>>> parent of 2fa17b5 (9th)
+8th line
+>>>>>>> devbranch
